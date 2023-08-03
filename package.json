@@ -1,0 +1,13 @@
+{
+    "name": "civo-pulumi-demo",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/civo": "^2.3.8",
+        "@pulumi/kubernetes": "^4.0.3",
+        "@pulumi/kubernetes-cert-manager": "^0.0.5",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
